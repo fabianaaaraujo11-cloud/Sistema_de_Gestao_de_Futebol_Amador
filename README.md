@@ -479,5 +479,5 @@ Para duvidas ou problemas:
 - Autenticacao JWT
 - Gestao de peladas e jogadores
 
-### v1.0.0 (Março 2026)
+### v1.0.0 (Marco 2026)
 - Versao inicial do projeto
